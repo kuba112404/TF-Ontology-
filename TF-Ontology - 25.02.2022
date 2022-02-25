@@ -11,3 +11,28 @@ AOB: EOSC / TF SI and FAIR Metrics Meeting - ca. 10Min
 WrapUp / Next Steps – ca. 10Min 
 =======
 Discussion: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERNCES: 
+RESCS Ontology: https://rescs.org
+RESCS SHACL shapes: https://github.com/Connectome-Consortium/rescs_shacl_shapes
+RESCS SHACL Shapes (EXCEL formalisation): https://docs.google.com/spreadsheets/d/1rGwxw0pLSSfFmi2toI6n3t2A7CQ_0rwH-3joQ5nlK-U/edit?usp=sharing
+Provenance Transparency RESCS https://docs.google.com/document/d/1oUelKTgrMqyjyEooAyhuf3MwB4BNczxuhl2ILns5MU4/edit?usp=sharing
+Data Provenance Transparency GitLab
+       Link: https://gitlab.switch.ch/connectome/rescs-ontology/-/issues/14
+  Ontology Issue #24 (previous version of SHACL shapes lib)
+       Link: https://gitlab.switch.ch/connectome/rescs-ontology/-/issues/24
+Connectome Simple Event Model https://docs.google.com/document/d/1qUob38Sk8VsfMynL9_GCPgoZrHnARihNZ-fedLtYXcE/edit?usp=sharing
+SEM - https://semanticweb.cs.vu.nl/2009/11/sem/
+RDA - https://www.rd-alliance.org/group/research-metadata-schemas-wg/outcomes/collection-crosswalks-fifteen-research-data-schemas#comment-30999
